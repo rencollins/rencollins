@@ -8,16 +8,16 @@
 
 ## 🌐 Follow me on
 <p align="center">
-  <a href="https://instagram.com/YOUR_USERNAME">
+  <a href="https://instagram.com/rencollins001">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="https://youtube.com/@YOUR_USERNAME">
+  <a href="https://youtube.com/@rencollins">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
-  <a href="https://tiktok.com/@YOUR_USERNAME">
+  <a href="https://tiktok.com/@ren.collins">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
   </a>
-  <a href="https://whatsapp.channel/YOUR_CHANNEL">
+  <a href="https://whatsapp.com/channel/0029VauDwc13QxRtRlQuCD29">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 </p>
